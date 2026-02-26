@@ -2,6 +2,8 @@
 # Sistemas Operacionais #
 ![sistemas](https://blog.winco.com.br/wp-content/uploads/2018/02/sistemas-operacionais.jpg)
 
+[Sistemas Operacionais](https://www.ibm.com/br-pt/think/topics/operating-systems)
+
 Em termos técnicos, o sistema operacional é o software principal que gerencia todos os recursos de um computador ou dispositivo móvel, servindo de ponte entre o hardware e o usuário.
 
 # O Kernel 
